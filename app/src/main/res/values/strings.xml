@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MorningAlarm</string>
+    <string name="button_text">Set Alarm</string>
 </resources>
