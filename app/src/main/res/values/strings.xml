@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MorningAlarm</string>
     <string name="button_text">Set Alarm</string>
+    <string name="number_picker_heading">Number of Alarms</string>
 </resources>
