@@ -62,6 +62,7 @@ public class MainActivity extends AppCompatActivity {
             if(intentMinute < 0){
                 intentMinute += 60;
                 intentHour--;
+                intentHour = (intentHour >= 0) ? intentHour : intentHour + 24;
             }
         }
     }
